@@ -1,3 +1,4 @@
+[![ko](https://img.shields.io/badge/lang-ko-green.svg)](https://github.com/GangsuKim/GangsuKim/blob/main/README.ko.md)
 ### Hi There 👋
 
 ### 👨 김강수 (Gangsu Kim)
