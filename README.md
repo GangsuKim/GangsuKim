@@ -11,11 +11,11 @@ Studying **Computer Vision(CV)** and **Deep Learning(DL)**
  - Adversarial Attack Research in CV *(private)*  
 
 ### 🏆 Awards
-🥈 2023 SW UNIV. co-hackathon ***2nd place (Director of IITP Award)***  
-🥇 Hallym Univ. 2022 Spring Capston Design Contest ***1st place***  
+🥈 [2023 SW UNIV. co-hackathon](https://github.com/Hackerthon-TAXX) ***2nd place (Director of IITP Award)***   
+🥇 [Hallym Univ. 2022 Spring Capston Design Contest](https://github.com/GangsuKim/2022-1_capstone_design) ***1st place***  
 🥇 Hallym Univ. 2022 Department of Software. IDEA Part competition ***1st place***   
 🥉 Hallym Univ. 2022 SW Week Future Technology Patent Idea Contest ***3rd place***  
-🥇 Hallym Univ. 2021 SW Week GitHub Resume Contest Hackathon ***1st place***  
+🥇 [Hallym Univ. 2021 SW Week GitHub Resume Contest Hackathon](https://github.com/GangsuKim/RESUME) ***1st place***  
 🥈 Hallym Univ. 2021 SW Week UI/UX Design Contest ***2nd place***  
 
 ### 🧑‍🤝‍🧑 Undergraduate Association
