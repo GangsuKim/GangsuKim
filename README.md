@@ -1,4 +1,5 @@
 [![ko](https://img.shields.io/badge/lang-ko-green.svg)](https://github.com/GangsuKim/GangsuKim/blob/main/README.ko.md)
+
 ### Hi There 👋
 
 ### 👨 Gangsu Kim (김강수)
@@ -23,3 +24,5 @@ Studying **Computer Vision(CV)** and **Deep Learning(DL)**
 **2022** 4th President of major in SmartIoT student council '**IEUM**' at Hallym University  
 **2021** 3rd major in SmartIoT student council '**BOOST**' at Hallym University  
 **2020** 2nd major in SmartIoT student council '**ULIM**' at Hallym University   
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGangsuKim&count_bg=%234A2BC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
