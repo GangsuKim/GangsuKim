@@ -12,13 +12,11 @@ Studying **Computer Vision(CV)** and **Deep Learning(DL)**
 
 ### 🏆 Awards
 🥈 2023 SW UNIV. co-hackathon ***2nd place (Director of IITP Award)***  
-🥇 2022 Spring Capston Design Contest ***1st place***  
-🥇 Hallym University 2022 Department of Software. IDEA Part competition ***1st place***   
-🥇 2022 Spring Capston Design Contest ***1st place***  
-🥇 Hallym University 2022 Spring Capston Design Contest ***1st place***  
-🥉 Hallym University 2022 SW Week Future Technology Patent Idea Contest ***3rd place***  
-🥇 Hallym University 2021 SW Week GitHub Resume Contest Hackathon ***1st place***  
-🥈 Hallym University 2021 SW Week UI/UX Design Contest ***2nd place***  
+🥇 Hallym Univ. 2022 Spring Capston Design Contest ***1st place***  
+🥇 Hallym Univ. 2022 Department of Software. IDEA Part competition ***1st place***   
+🥉 Hallym Univ. 2022 SW Week Future Technology Patent Idea Contest ***3rd place***  
+🥇 Hallym Univ. 2021 SW Week GitHub Resume Contest Hackathon ***1st place***  
+🥈 Hallym Univ. 2021 SW Week UI/UX Design Contest ***2nd place***  
 
 ### 🧑‍🤝‍🧑 Undergraduate Association
 **2023** 37th Undergraduate Association '**CATCH**' at Hallym University     
