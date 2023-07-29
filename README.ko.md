@@ -1,4 +1,4 @@
-### 한국어 👋
+### 반가워요 👋
 
 ### 👨 김강수 (Gangsu Kim)
 한림대학교 **4학년**  
@@ -10,11 +10,11 @@
  - Computer Vision분야의 적대적 공격 연구 *(미공개)*
 
 ### 🏆 Awards
-🥈 SW중심대학 공동해커톤 2023 ***최우수상(정보통신기획평가원장상)***  
-🥇한림대학교 2022년 1학기 캡스톤 디자인 경진대회 ***대상***  
+🥈[SW중심대학 공동해커톤 2023](https://github.com/Hackerthon-TAXX) ***최우수상(정보통신기획평가원장상)***  
+🥇[한림대학교 2022년 1학기 캡스톤 디자인 경진대회](https://github.com/GangsuKim/2022-1_capstone_design) ***대상***  
 🥇한림대학교 2022 SW학부 서공제 아이디어 부문 ***금상***  
 🥉2022 SW Week 미래기술 특허 아이디어 경진대회 ***동상***  
-🥇한림대학교 2021 SW Week GitHub 이력서 콘테스트 해커톤 ***금상***  
+🥇[한림대학교 2021 SW Week GitHub 이력서 콘테스트 해커톤](https://github.com/GangsuKim/RESUME) ***금상***  
 🥈한림대학교 2021 SW Week UI/UX 설계안 공모전 ***은상***  
 
 ### 🧑‍🤝‍🧑 Undergraduate Association
