@@ -7,9 +7,10 @@
 **Undergraduate researcher** in [MMCLAB@Hallym](https://sites.google.com/view/juhouhallym/home) Labatory  
 Studying **Computer Vision(CV)** and **Deep Learning(DL)**
 
-### 📚 Research in Progess
- - NSR(NATIONAL SECURITY RESEARCH INSTITUTE)'s 'Developing Cyber Threat Documents Understanding Technology using AI'  
- - Adversarial Attack Research in CV *(private)*  
+### 📚 Research
+ - Developing Cyber Threat Documents Understanding Technology using AI
+    - Improvement of OCR based on security documents
+    - ETRI NSR (2023.03 ~ 10)
 
 ### 🏆 Awards
 🥉 Hallym Univ. 2023 SW Week Hallym AI Competition ***3rd place***  
