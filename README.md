@@ -7,6 +7,8 @@ Studying **Computer Vision(CV)** and **Deep Learning(DL)**
  - Developing Cyber Threat Documents Understanding Technology using AI
     - Improvement of OCR based on security documents
     - ETRI NSR (2023.03 ~ 10)
+  
+ [[WebSite](http://gangsu.kim/)] [[CV](http://gangsu.kim/CV/)]
 <!--
 ### 🏆 Awards
 🥉 Astronomy & Space AI Competition, KAIST-KASI ***3rd place***  
