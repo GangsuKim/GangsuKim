@@ -3,8 +3,8 @@
 ### Hi There 👋
 
 ### 👨 Gangsu Kim (김강수)
-**Senior** at Hallym University  
-**Undergraduate researcher** in [MMCLAB@Hallym](https://sites.google.com/view/juhouhallym/home) Labatory  
+Bachelor's degree in Computer Science and Engineering at Hallym University  
+**Research Intern** at [HVCL@Korea Univ.](http://hvcl.korea.ac.kr/) from Sep. 2024.  
 Studying **Computer Vision(CV)** and **Deep Learning(DL)**
 
 ### 📚 Research
@@ -13,6 +13,7 @@ Studying **Computer Vision(CV)** and **Deep Learning(DL)**
     - ETRI NSR (2023.03 ~ 10)
 
 ### 🏆 Awards
+🥉 Astronomy & Space AI Competition, KAIST-KASI ***3rd place***  
 🥉 Hallym Univ. 2023 SW Week Hallym AI Competition ***3rd place***  
 🥈 [2023 SW UNIV. co-hackathon](https://github.com/Hackerthon-TAXX) ***2nd place (Director of IITP Award)***   
 🥇 [Hallym Univ. 2022 Spring Capston Design Contest](https://github.com/GangsuKim/2022-1_capstone_design) ***1st place***  
