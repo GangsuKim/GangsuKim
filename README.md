@@ -1,7 +1,7 @@
 ### Gangsu Kim (김강수)
 Bachelor's degree in CS at Hallym University  
 **Research Intern** at [HVCL](http://hvcl.korea.ac.kr/) from Sep. 2024.  
-Studying **Computer Vision(CV)** and **Deep Learning(DL)**
+Studying **Pathology foundation model**
 
 ### Research
  - Developing Cyber Threat Documents Understanding Technology using AI
