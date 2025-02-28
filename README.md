@@ -1,6 +1,5 @@
 ### Gangsu Kim (김강수)
-Bachelor's degree in CS at Hallym University  
-**Research Intern** at [HVCL](http://hvcl.korea.ac.kr/) from Sep. 2024.  
+MS-PhD course in CS at [HVCL@Korea](http://hvcl.korea.ac.kr/)  
 Studying **Pathology foundation model**
 
 ### Research
