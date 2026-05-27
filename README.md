@@ -2,13 +2,18 @@
 MS-PhD course in CS at [HVCL@Korea](http://hvcl.korea.ac.kr/)  
 Studying **Pathology foundation model**
 
+### Research Interest
+- Pathology Foundation Model
+- Pathology Encoding
+- Agentic AI
+
+ [[WebSite](http://gangsu.kim/)] [[CV](http://gangsu.kim/CV/)] [[Scholar](https://scholar.google.com/citations?user=CmGABBYAAAAJ)]
+<!--
 ### Research
  - Developing Cyber Threat Documents Understanding Technology using AI
     - Improvement of OCR based on security documents
     - ETRI NSR (2023.03 ~ 10)
-  
- [[WebSite](http://gangsu.kim/)] [[CV](http://gangsu.kim/CV/)]
-<!--
+
 ### 🏆 Awards
 🥉 Astronomy & Space AI Competition, KAIST-KASI ***3rd place***  
 🥉 Hallym Univ. 2023 SW Week Hallym AI Competition ***3rd place***  
